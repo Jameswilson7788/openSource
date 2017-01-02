@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 歡迎來到開放函式庫表
 
-You can use the [editor on GitHub](https://github.com/Jameswilson7788/openSource/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你可以在[GitHub上編輯](https://github.com/Jameswilson7788/openSource/edit/master/index.md) 然後閱覽所有的函式庫。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+這只是屬於個人在學習程式設計時所編輯的函式庫，並不算完備，歡迎隨意編輯。如有任何意見，歡迎與我聯絡：[Email](domyfuneral@gmail.com)
 
-### Markdown
+##編輯前請注意：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jameswilson7788/openSource/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	###編寫時需增加註解，英文中文皆可。
+	###不同的程式語言與功能需做分類。
+	
